@@ -1,6 +1,6 @@
 ---
-name: Chen
-message: 我开始后悔，不应该，太聪明的卖弄。
+name: Dan
+message: It just comes and goes.
 date: 2026-01-09
 weight: -100
 ---
